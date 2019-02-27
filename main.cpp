@@ -30,6 +30,7 @@ int main()
 
     delete train2;
     train2 = 0;
-
+    // EINE ganz wichtige Änderung im Master, die sofort umgesetzt werden muss!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    // Das ist echt super dringend
     return 0;
 }
