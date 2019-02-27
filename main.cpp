@@ -21,6 +21,9 @@ int main()
 
     int result = train2->setTrainName("ICE-2");
 
+    cout << "train1->getTrainName(): " << train1->getTrainName() << endl;
+    cout << "train2->getTrainName(): " << train2->getTrainName() << endl;
+
     delete train1;
     train1 = 0;
 
